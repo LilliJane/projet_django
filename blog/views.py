@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 # Create your views here.
 
 from django.shortcuts import render, get_object_or_404
